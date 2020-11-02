@@ -1,0 +1,93 @@
+body
+{
+    background-color: #1a1a1a;
+    background-image: url("https://www.transparenttextures.com/patterns/swirl.png");
+    /* This is mostly intended for prototyping; please download the pattern and re-host for production environments. Thank you! */
+    color: #9932CD;
+}
+.link-menu
+{
+    color: #fff;
+    text-decoration: none;
+}.link-menu:hover
+{
+    color: #fff;
+    text-decoration: underline;
+}
+#menu
+{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Itim', cursive;
+}
+#menu-2
+{
+    margin-top: 40px;
+}
+.link-of-list-menu
+{
+    color: #fff;
+    text-decoration: none;
+}
+.link-of-list-menu:hover
+{
+   color: #fff;
+   text-decoration: underline;  
+}
+#menu-menu
+{
+    width: 700px;
+    margin-left: 640px;
+    margin-right: auto;
+    margin-top: 40px;
+    text-align: start;
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Itim', cursive;
+}
+#name-menu-left
+{
+   
+    margin-top: 250px;
+    margin-right: 200;
+    margin-left: auto;
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Itim', cursive;
+    float: left;
+}
+#menu-name
+{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 180px;
+    text-align: center;
+    font-family: 'Itim', cursive;
+    font-size: 50px;
+}
+#menu-text
+{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Itim', cursive;
+}
+#link-to-menu
+{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    text-align: center;
+    font-size: 40px;
+    color: #fff;
+    font-family: 'Itim', cursive;
+}
